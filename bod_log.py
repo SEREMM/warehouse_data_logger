@@ -101,9 +101,9 @@ def start():
         option = input()
         print('')
         if option == '':
-            ingreso()
+            ing()
         elif option == '1':
-            gasto()
+            gas()
         elif option == '2':
             comentario()
         elif option == 'c':
