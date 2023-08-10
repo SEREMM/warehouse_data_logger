@@ -15,15 +15,15 @@ def get_current_date():
 
 def create_csv_file():
     df = pd.DataFrame(columns=['type','date','hour','kg','price','total','importe','concept','comment'])
-    df.to_csv('gastosIngresosBod.csv', index=False)
+    df.to_csv('movimientos_bod.csv', index=False)
 
 def append_csv_row(row):
-    with open('gastosIngresosBod.csv', mode='a', newline='') as file:
+    with open('movimientos_bod.csv', mode='a', newline='') as file:
         writer = csv.writer(file)
         writer.writerow(row)
 
 
-def ingreso():
+def ing():
     print('===')
     print('')
     kg = input("Ingrese la cantidad en kilogramos: ")
@@ -42,19 +42,19 @@ def ingreso():
         print('')
     concept = input("Ingrese el concepto: ")
     comment = input("Ingrese el comentario: ")
-    row = ['ingreso',get_current_date(),get_current_hour(),kg,price,total,0,concept,comment]
+    row = ['ing',get_current_date(),get_current_hour(),kg,price,total,0,concept,comment]
     append_csv_row(row)
     print('...')
     print('')
 
 
-def gasto():
+def gas():
     print('===')
     print('')
     importe = float(input("Ingrese el importe: "))
     concept = input("Ingrese el concepto: ")
     comment = input("Ingrese el comentario: ")
-    row = ['gasto',get_current_date(),get_current_hour(),0,0,0,importe,concept,comment]
+    row = ['gas',get_current_date(),get_current_hour(),0,0,0,importe,concept,comment]
     append_csv_row(row)
     print('...')
     print('')
@@ -75,10 +75,10 @@ def delete_and_repeat():
     print('===')
     print('')
     try:
-      df = pd.read_csv('gastosIngresosBod.csv')
+      df = pd.read_csv('movimientos_bod.csv')
       last_row = df.iloc[-1:,:]
       df = df.drop(df.index[-1])
-      df.to_csv('gastosIngresosBod.csv', index=False)
+      df.to_csv('movimientos_bod.csv', index=False)
       print(f"Deleted row: {last_row}")
     except FileNotFoundError:
         print("No previous row to delete")
