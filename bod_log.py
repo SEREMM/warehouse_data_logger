@@ -129,7 +129,7 @@ def start():
 
 # main
 try:
-    df = pd.read_csv('gastosIngresosBod.csv')
+    df = pd.read_csv('movimientos_bod.csv')
 except FileNotFoundError:
     create_csv_file()
 
