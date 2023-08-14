@@ -1,11 +1,2 @@
 type,date,hour,kg,price,total,importe,concept,comment
-gas,2023-08-10,13:52:08,0,0,0,520.0,lalo,500+20cam-50sra-50abono
-gas,2023-08-10,13:52:35,0,0,0,420.0,chuy,400completoybolsas-20pres+20cam
-gas,2023-08-10,13:52:50,0,0,0,560.0,trino,550-50pres+10cam
-gas,2023-08-10,13:54:30,0,0,0,440.0,chango,400-50-50pres+20pow+20cam
-gas,2023-08-10,13:59:43,0,0,0,4000.0,gastos chofer,
-gas,2023-08-10,13:59:56,0,0,0,900.0,camioneta cargada,
-gas,2023-08-10,14:00:08,0,0,0,1700.0,vales diesel,1200 y 500
-ing,2023-08-10,14:02:08,155.0,7.5,1162.5,0,gde,
-gas,2023-08-10,14:06:11,0,0,0,445.0,pancho,450sebajocompletoybolsas-25-100-50-50pres
-gas,2023-08-10,14:06:45,0,0,0,400.0,plutis,400llegoantesde6.30-50pres
+ing,2023-08-14,12:18:50,8.8,7.5,66.0,0,,

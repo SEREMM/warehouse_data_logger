@@ -26,38 +26,50 @@ def append_csv_row(row):
 def ing():
     print('===')
     print('')
-    kg = input("Ingrese la cantidad en kilogramos: ")
-    if kg == '':
-        kg = float(0)
-        price = float(0)
-        total = float(input('Ingrese el total de ingreso: '))
-    else:
-        kg = float(kg)
-        price = float(input("Ingrese el precio por kilogramo: "))
-        total = round(kg * price, 2)
+    try:
+        kg = input("Ingrese la cantidad en kilogramos: ")
+        if kg == '':
+            kg = float(0)
+            price = float(0)
+            total = float(input('Ingrese el total de ingreso: '))
+        else:
+            kg = float(kg)
+            price = float(input("Ingrese el precio por kilogramo: "))
+            total = round(kg * price, 2)
+            print('')
+            print(':::')
+            print(total)
+            print(':::')
+            print('')
+        concept = input("Ingrese el concepto: ")
+        comment = input("Ingrese el comentario: ")
+        row = ['ing',get_current_date(),get_current_hour(),kg,price,total,0,concept,comment]
+        append_csv_row(row)
+        print('...')
         print('')
-        print(':::')
-        print(total)
-        print(':::')
+    except:
+        print('Dato no válido')
+        print('...')
         print('')
-    concept = input("Ingrese el concepto: ")
-    comment = input("Ingrese el comentario: ")
-    row = ['ing',get_current_date(),get_current_hour(),kg,price,total,0,concept,comment]
-    append_csv_row(row)
-    print('...')
-    print('')
+        start()
 
 
 def gas():
     print('===')
     print('')
-    importe = float(input("Ingrese el importe: "))
-    concept = input("Ingrese el concepto: ")
-    comment = input("Ingrese el comentario: ")
-    row = ['gas',get_current_date(),get_current_hour(),0,0,0,importe,concept,comment]
-    append_csv_row(row)
-    print('...')
-    print('')
+    try:
+        importe = float(input("Ingrese el importe: "))
+        concept = input("Ingrese el concepto: ")
+        comment = input("Ingrese el comentario: ")
+        row = ['gas',get_current_date(),get_current_hour(),0,0,0,importe,concept,comment]
+        append_csv_row(row)
+        print('...')
+        print('')
+    except:
+        print('Dato no válido')
+        print('...')
+        print('')
+        start()
 
 
 def comentario():
