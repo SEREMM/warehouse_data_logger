@@ -1,5 +1,6 @@
 type,date,hour,kg,price,total,importe,concept,comment
-coment,2023-08-14,13:29:04,0,0,0,0,becerro pago,se le pagó a becerro 37200 y se le dio cunjunto de notas por 7800 que era el respo pendiente - completando los 45000
-gas,2023-08-14,13:30:54,0,0,0,400.0,feo,400-50-100pres+50abono
-gas,2023-08-14,13:32:50,0,0,0,460.0,lalo,450+10cam
-gas,2023-08-14,13:40:33,0,0,0,470.0,chango,450(anduvo de chofer)-50pres+20pow
+ing,2023-08-14,13:59:47,20.0,8.0,160.0,0,,
+ing,2023-08-14,14:00:36,20.0,8.0,160.0,0,,
+ing,2023-08-15,10:14:29,10.0,7.5,75.0,0,,
+gas,2023-08-15,10:16:49,0,0,0,3750.0,col mdo,
+gas,2023-08-15,10:39:44,0,0,0,1998.0,col mdo,222 a 9

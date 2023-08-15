@@ -4,6 +4,16 @@ import datetime
 import csv
 import pytz
 
+def formato(func):
+    def wrapper(*args, **kwargs):
+        titulo = args[0]
+        linea = "=" * len(titulo)
+        print(linea,'\n' + titulo,'\n')
+        resultado = func(*args, **kwargs)
+        print(linea,'\n')
+        return resultado
+    return wrapper
+
 def get_current_hour():
     return (datetime.datetime.utcnow() - datetime.timedelta(hours=6)).strftime('%H:%M:%S')
 
@@ -22,10 +32,8 @@ def append_csv_row(row):
         writer = csv.writer(file)
         writer.writerow(row)
 
-
-def ing():
-    print('===')
-    print('')
+@formato
+def ing(titulo):
     try:
         kg = input("Ingrese la cantidad en kilogramos: ")
         if kg == '':
@@ -36,56 +44,36 @@ def ing():
             kg = float(kg)
             price = float(input("Ingrese el precio por kilogramo: "))
             total = round(kg * price, 2)
-            print('')
-            print(':::')
+            print('\n:::')
             print(total)
-            print(':::')
-            print('')
+            print(':::\n')
         concept = input("Ingrese el concepto: ")
         comment = input("Ingrese el comentario: ")
         row = ['ing',get_current_date(),get_current_hour(),kg,price,total,0,concept,comment]
         append_csv_row(row)
-        print('...')
-        print('')
     except:
-        print('Dato no válido')
-        print('...')
-        print('')
-        # start()
+        print('--- Dato no válido ---')
 
-
-def gas():
-    print('===')
-    print('')
+@formato
+def gas(titulo):
     try:
         importe = float(input("Ingrese el importe: "))
         concept = input("Ingrese el concepto: ")
         comment = input("Ingrese el comentario: ")
         row = ['gas',get_current_date(),get_current_hour(),0,0,0,importe,concept,comment]
         append_csv_row(row)
-        print('...')
-        print('')
     except:
-        print('Dato no válido')
-        print('...')
-        print('')
-        # start()
+        print('--- Dato no válido ---')
 
-
-def comentario():
-    print('===')
-    print('')
+@formato
+def comentario(titulo):
     concept = input("Ingrese el titulo del comentario: ")
     comment = input("Ingrese el cuerpo del comentario: ")
     row = ['coment',get_current_date(),get_current_hour(),0,0,0,0,concept,comment]
     append_csv_row(row)
-    print('...')
-    print('')
 
-
-def delete_and_repeat():
-    print('===')
-    print('')
+@formato
+def delete_and_repeat(titulo):
     try:
       df = pd.read_csv('movimientos_bod.csv')
       last_row = df.iloc[-1:,:]
@@ -93,18 +81,12 @@ def delete_and_repeat():
       df.to_csv('movimientos_bod.csv', index=False)
       print(f"Deleted row: {last_row}")
     except FileNotFoundError:
-        print("No previous row to delete")
-    print('...')
-    print('')
+        print("--- No previous row to delete ---")
 
-
-def start():
+@formato
+def start(titulo):
     option = ''
     while option != 'c':
-        print('===')
-        print('')
-        print("Seleccione una opción:")
-        print('')
         print("enter. Ingreso")
         print("1. Gasto")
         print("2. Comentario")
@@ -113,19 +95,17 @@ def start():
         option = input()
         print('')
         if option == '':
-            ing()
+            ing('Ingreso')
         elif option == '1':
-            gas()
+            gas('Gasto')
         elif option == '2':
-            comentario()
+            comentario('Comentario')
         elif option == 'c':
             print("Programa finalizado.")
         elif option == 'd':
-            delete_and_repeat()
+            delete_and_repeat('Eliminar fila')
         else:
-            print("Opción no válida.")
-        print('...')
-        print('')
+            print("--- Opción no válida ---")
 
 # main
 try:
@@ -133,4 +113,4 @@ try:
 except FileNotFoundError:
     create_csv_file()
 
-start()
+start('Seleccione una opción')
