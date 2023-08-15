@@ -51,7 +51,7 @@ def ing():
         print('Dato no válido')
         print('...')
         print('')
-        start()
+        # start()
 
 
 def gas():
@@ -69,7 +69,7 @@ def gas():
         print('Dato no válido')
         print('...')
         print('')
-        start()
+        # start()
 
 
 def comentario():
