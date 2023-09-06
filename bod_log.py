@@ -112,5 +112,7 @@ try:
     df = pd.read_csv('movimientos_bod.csv')
 except FileNotFoundError:
     create_csv_file()
+except UnicodeDecodeError:
+    df = pd.read_csv('movimientos_bod.csv', encoding='latin_1')
 
 start('Seleccione una opción')
