@@ -82,6 +82,12 @@ def delete_and_repeat(titulo):
       print(f"Deleted row: {last_row}")
     except FileNotFoundError:
         print("--- No previous row to delete ---")
+    except UnicodeDecodeError:
+        df = pd.read_csv('movimientos_bod.csv', encoding='latin_1')
+        last_row = df.iloc[-1:,:]
+        df = df.drop(df.index[-1])
+        df.to_csv('movimientos_bod.csv', index=False)
+        print(f"Deleted row: {last_row}")
 
 @formato
 def start(titulo):
