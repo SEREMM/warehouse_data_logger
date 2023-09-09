@@ -39,8 +39,11 @@ def pedido(titulo):
     kg = input("Ingrese los kilogramos del pedido: ")
     price = input('Ingrese el precio: ')
     concept = input("Ingrese el tipo de producto: ")
-    comment = input("Ingrese el comentario: ")
-    row = ['pedido',get_current_date(),get_current_hour(),cliente,kg,price,concept,comment]
+    fecha = input("fecha actual (enter), otra fecha (ej. 2023-01-01): ")
+    if fecha != '':
+        row = ['pedido',fecha,get_current_hour(),cliente,kg,price,concept]
+    else:
+        row = ['pedido',get_current_date(),get_current_hour(),cliente,kg,price,concept]
     append_csv_row(row)
 
 @formato
@@ -54,7 +57,12 @@ def descarga(titulo):
     proveedor = input('Ingrese nombre del proveedor: ')
     semilla = input('Ingrese la semilla: ')
     caracteristicas = input('Características del producto tamaño, color, enfermedades,\ncant. de hojas. Separador "-": ')
-    row = ['descarga',get_current_date(),get_current_hour(),proveedor,cantidad,
+    fecha = input("fecha actual (enter), otra fecha (ej. 2023-01-01): ")
+    if fecha != '':
+        row = ['descarga',fecha,get_current_hour(),proveedor,cantidad,
+            dia,camion,comentario,razo,procedencia,semilla,caracteristicas]
+    else:
+        row = ['descarga',get_current_date(),get_current_hour(),proveedor,cantidad,
             dia,camion,comentario,razo,procedencia,semilla,caracteristicas]
     append_csv_row(row)
 
