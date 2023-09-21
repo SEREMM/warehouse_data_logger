@@ -8,7 +8,7 @@ def formato(func):
     def wrapper(*args, **kwargs):
         titulo = args[0]
         linea = "=" * len(titulo)
-        print(linea,'\n' + titulo,'\n')
+        print(linea,'\n' + titulo,'\n') 
         resultado = func(*args, **kwargs)
         print(linea,'\n')
         return resultado
@@ -20,6 +20,12 @@ def get_current_hour():
 def get_current_date():
     timezone = pytz.timezone('America/Mexico_City')
     gmt_minus_6 = datetime.datetime.now(timezone)
+    date_gmt_minus_6 = gmt_minus_6.strftime('%Y-%m-%d')
+    return date_gmt_minus_6
+
+def get_date_minus_days(dias):
+    timezone = pytz.timezone('America/Mexico_City')
+    gmt_minus_6 = datetime.datetime.now(timezone) - datetime.timedelta(days=dias)
     date_gmt_minus_6 = gmt_minus_6.strftime('%Y-%m-%d')
     return date_gmt_minus_6
 
@@ -39,11 +45,17 @@ def pedido(titulo):
     kg = input("Ingrese los kilogramos del pedido: ")
     price = input('Ingrese el precio: ')
     concept = input("Ingrese el tipo de producto: ")
-    fecha = input("fecha actual (enter), otra fecha (ej. 2023-01-01): ")
-    if fecha != '':
+    fecha = input("fecha actual (enter), restar dias a actual (num, ej. 1),\notra fecha (fec, ej. 2023-09-01): ")
+    if fecha == 'fec':
         row = ['pedido',fecha,get_current_hour(),cliente,kg,price,concept]
     else:
-        row = ['pedido',get_current_date(),get_current_hour(),cliente,kg,price,concept]
+        try:
+            dias_minus = int(fecha)
+            fecha = get_date_minus_days(dias_minus)
+            print(f'fecha: {fecha}')
+            row = ['pedido',fecha,get_current_hour(),cliente,kg,price,concept]
+        except ValueError:
+            row = ['pedido',get_current_date(),get_current_hour(),cliente,kg,price,concept]
     append_csv_row(row)
 
 @formato
