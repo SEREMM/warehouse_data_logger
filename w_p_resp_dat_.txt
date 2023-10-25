@@ -1,0 +1,134 @@
+[11:15, 9/10/2023] SRGMM: Ing, Alf hdz, 10700
+[11:32, 9/10/2023] SRGMM: Gas, chuy, 400
+Gas, alan, 320
+[11:47, 9/10/2023] SRGMM: Gas, trino, 560, 550 mas 10 cam
+Gas, omar, 450
+[11:48, 9/10/2023] SRGMM: Lagos, rabon, bco, 1, razo
+Char, camion, bco azl, 1, copete
+Gordo, camioneta, bca alla, 1, rza
+Horta, jaula, rja, 1, raza
+Cesar, camion, nja, .5, copete - Camion, azl, .25, razo
+[12:57, 9/10/2023] SRGMM: Ing, 427, 57 a 7.5, gde
+[13:26, 9/10/2023] SRGMM: Ing, 900, 120kg, gde, rocio
+[13:27, 9/10/2023] SRGMM: Gas, chuy, 400, 400-150pres
+[13:27, 9/10/2023] SRGMM: Gas, pancho, 400, 400-150pres
+[4:06, 10/10/2023] SRGMM: Com,char,camion, bco vde, 1, copete
+[4:08, 10/10/2023] SRGMM: Com,gor, pickup arpillas, gris, 1, copete
+[4:11, 10/10/2023] SRGMM: Com, horta, camion,rojo,1,razo
+[4:13, 10/10/2023] SRGMM: Com, lagos, rabon,bco,1 razo
+[4:14, 10/10/2023] SRGMM: Com,cesar,camioneta,1,copete-com,camiom,azul,.25,razo
+[4:34, 10/10/2023] SRGMM: Com, lagos, rabon,bco,1, razo
+[4:13, 11/10/2023] SRGMM: Com, char, cam, cafe, 1, copete
+[4:14, 11/10/2023] SRGMM: Com, gor, pickup, gris, .5, le estan echando arpillas
+[4:15, 11/10/2023] SRGMM: Com, horta, rabon, bco rojo, 1, razo
+[4:26, 11/10/2023] SRGMM: Com, cesar, thorton, nja, 1, copete
+[4:47, 11/10/2023] SRGMM: Com, lagos, nada
+[8:46, 11/10/2023] SRGMM: Gas, aguas cliente, 1200, mariana guma
+[8:46, 11/10/2023] SRGMM: Gas, transito, 50, estacionarse
+[11:14, 11/10/2023] SRGMM: Gas,trino,10,extra
+[12:47, 11/10/2023] SRGMM: Ing,7550,nevarez
+[12:57, 11/10/2023] SRGMM: Gas,lalo,510,500 mas 10 cam
+[12:57, 11/10/2023] SRGMM: Gas,omar,450
+[12:59, 11/10/2023] SRGMM: Gas,alan,360,350-50pres+10cam
+[13:07, 11/10/2023] SRGMM: Gas,chuy,420
+[13:22, 11/10/2023] SRGMM: Gas,trino,560,550+10cam
+[13:29, 11/10/2023] SRGMM: Gas,camion,5350,4000cargada-450tornilloscaja-900camioneta
+Gas,camion,3000,vale diesel
+[13:31, 11/10/2023] SRGMM: Gas,pancho,420,420-50-50-50-100pres
+[4:20, 13/10/2023] SRGMM: Com,gordo,pickup,gris,1,copete
+Com,char,camion,nja,1,cop
+[4:21, 13/10/2023] SRGMM: Com,horta,rabon,rojo,.5,razo
+[4:28, 13/10/2023] SRGMM: Com,cesar,camion,nja,1,razo
+Com,cesar,camion,azul,1,copete
+[7:35, 13/10/2023] SRGMM: Com,lagos,rabon,bco,.5,razo
+[14:21, 13/10/2023] SRGMM: Gas,lalo,455,450+5cam
+Gas,chuy,410,400-20-20pres+10cam
+Gas,alan,350,350-50pres
+Gas,trino,550,550-50pres
+Gas,omar,400
+[14:26, 13/10/2023] SRGMM: Gas,pancho,370,370-100-100pres
+[4:05, 16/10/2023] SRGMM: Com,lagos,rabon,bco,1,copete
+[4:25, 16/10/2023] SRGMM: Com,char,camion,bco vde,1,copete
+[4:25, 16/10/2023] SRGMM: Com,gordo,pickup,gris,1,copete
+[4:26, 16/10/2023] SRGMM: Com,horta,jaula,roja,1,2dopiso
+[4:32, 16/10/2023] SRGMM: Com,cesar,camion,nja,.5,copete
+[11:47, 16/10/2023] SRGMM: Gas,arpillas,1600,500 a 3.2 chaggy
+[12:18, 16/10/2023] SRGMM: Gas,lalo,460,450+10cam
+[12:18, 16/10/2023] SRGMM: Gas,omar,450
+[12:21, 16/10/2023] SRGMM: Gas,trino,550
+[12:42, 16/10/2023] SRGMM: Gas,cargada,7800,5k cargada+1k resto cargada+800 diesel+1k casetas 4
+Gas,vale diesel,3800
+[13:22, 16/10/2023] SRGMM: Gas,pancho,400,400-200pres
+[4:09, 17/10/2023] SRGMM: Com,lagos,rabon,bco,.5,razo
+Com,horta,jaula,roja,.5,2do piso
+[4:11, 17/10/2023] SRGMM: Com,gordo,pickup,gris,1,copete
+Com,char,thorton,bco azul,1,cop
+[5:36, 17/10/2023] SRGMM: Com,cesar,thorton,nja,.75,medio copete
+[11:27, 17/10/2023] SRGMM: Ing,2800,renta,kike mostro
+[13:42, 17/10/2023] SRGMM: Gas,lalo,560,550+10cam
+[13:46, 17/10/2023] SRGMM: Gas,omar,500
+[13:46, 17/10/2023] SRGMM: Gas,alan,400,400-50pres
+[13:50, 17/10/2023] SRGMM: Gas,trino,560,550+10cam-50pres
+[13:57, 17/10/2023] SRGMM: Gas,cargada,5000
+Gas,pistas,500
+Gas,fco chofer,4000,prestamo
+Gas,vale diesel,3800
+[13:57, 17/10/2023] SRGMM: Gas,pancho,480,480-280pres
+[14:06, 17/10/2023] SRGMM: Gas,bodega,761,cel chofer entregador
+[4:21, 20/10/2023] SRGMM: Com,char,thor,nja,1,copete
+Com,gord,thor,rjo,1,copete
+[4:23, 20/10/2023] SRGMM: Com,horta,rabon,rjo,1,razo
+[4:29, 20/10/2023] SRGMM: Com,cesar,thor,azl,.5,razo
+Com,camioneta,bca,1,razo
+[13:25, 20/10/2023] SRGMM: Gas,vale diesel,4500
+[13:31, 20/10/2023] SRGMM: Gas,lalo,566,550+16cam-50pres
+Gas,mayo,450
+Gas,chuy,280,270+10cam
+Gas,arpillas,166,36 a 1.5 y 34 a 3.3
+[13:32, 20/10/2023] SRGMM: Gas,omar,400,se fue temprano a las 11.30
+[13:43, 20/10/2023] SRGMM: Gas,20,chuy,extra
+[13:43, 20/10/2023] SRGMM: Gas,pancho,500,500-150pres
+Gas,trino,560,550+10cam
+[4:16, 21/10/2023] SRGMM: Com,char,thor,bco vde,1,copete
+Com,gord,nada
+[4:17, 21/10/2023] SRGMM: Com,horta,rabon,rjo,.33,razo
+[4:25, 21/10/2023] SRGMM: Com,cesar,thor,nja,1,copete
+[6:23, 21/10/2023] SRGMM: Com,lagos,rabon,bco,.33,razo
+[10:53, 21/10/2023] SRGMM: Gas,arpillas,420,127 a 3.3
+[13:17, 21/10/2023] SRGMM: Ped,frumonflo,600,
+[13:17, 21/10/2023] SRGMM: Ped,frumonpal,660
+[13:17, 21/10/2023] SRGMM: Ped,jorav,382,6,gde
+[13:18, 21/10/2023] SRGMM: Ped,jch,400,6.5
+[13:18, 21/10/2023] SRGMM: Ped,rc,60,7.5
+[13:23, 21/10/2023] SRGMM: Gas,alan,420,400-50-20pres+20nocambio
+[13:25, 21/10/2023] SRGMM: Gas,chuy,480,450+10cam-20-20pres+20pendientes
+[13:28, 21/10/2023] SRGMM: Gas,lalo,560,550+10cam
+[13:28, 21/10/2023] SRGMM: Gas,mayo,450
+[13:29, 21/10/2023] SRGMM: Gas,omar,450
+[13:30, 21/10/2023] SRGMM: Gas,trino,560,550+10cam-50-50pres
+[13:33, 21/10/2023] SRGMM: Gas,arpillas,1000,1000 a 3.5 fueron 3500 se abonaron 1000 quedaron pendientes 2500 al papa del more
+[14:02, 21/10/2023] SRGMM: Gas,picha,700,abono pago semana
+[11:57, 23/10/2023] SRGMM: Gas,lalo,460,450-50pres+10cam
+[11:57, 23/10/2023] SRGMM: Gas,mayo,350
+[12:00, 23/10/2023] SRGMM: Gas,chuy,360,350llegotardeperoselepagonormal-20pres+10cam
+[12:01, 23/10/2023] SRGMM: Gas,omar,400
+[12:10, 23/10/2023] SRGMM: Gas,trino,560,550-100abono+10cam
+[12:18, 23/10/2023] SRGMM: Gas,arpillas,2500,pendientes de arpillas papa de more
+[4:23, 24/10/2023] SRGMM: Gas,bodega,400,gas platina
+[4:36, 24/10/2023] SRGMM: Com,lagos,rabon,bco,.33,razo
+Com,char,thor,ngo vde,.33,copete
+Com,gordo,pickup,gris,1,copete
+[4:42, 24/10/2023] SRGMM: Com,cesar,thor,nja,.33,copete
+[5:19, 24/10/2023] SRGMM: Com,horta,rabon,rjo,.33,razo
+[9:08, 24/10/2023] SRGMM: Gas,col mdo,1800,15 a 120
+[11:27, 24/10/2023] SRGMM: Gas,alan,290,280-20+10cam
+Gas,chuy,380,370+10cam-20pres
+[11:29, 24/10/2023] SRGMM: Gas,omar,400,
+Gas,lalo,455,450+5cam
+[11:30, 24/10/2023] SRGMM: Gas,mayo,350,
+[11:30, 24/10/2023] SRGMM: Gas,pancho,370-100pres
+[4:25, 25/10/2023] SRGMM: Com,lago,camioneta,azul,1,copete
+[4:39, 25/10/2023] SRGMM: Com,horta,rabon,rojo,.20,razo
+Com,char,thor,bco azl,1,copete
+Com,gord,pickup,1,copete
+Com,cesar,nada,bodega llena
