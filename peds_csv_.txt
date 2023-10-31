@@ -1,0 +1,53 @@
+29-10-23
+alhe,80 de 30
+casa, 15 de 40
+ralla,480
+,40,,mdo
+rava,800
+gum,35 de 40
+miga,14 de 30
+jch,10 de 40
+asma,7 de 40
+,20,,mdo
+raan,8 de 30
+ate,10 de 40
+grusi,3 de 40
+mir,5 de 40
+30-10-23
+mir,30 de 40
+frusa,15 de 40
+mirhe,5de40
+,40,,mdo
+kaflo,40 de 40,6.5
+laz,8 de 40,,gde
+sol,10 de 40,7
+dio,3 de 40,7
+,40,,mdo
+miga,15 de 30
+rasa,40
+hz,8 de 20
+frumonflo,20 de 40,7
+,40,15,mdo
+frumonpal,22 de 40,7
+rava,17 de40
+rc,2 de 30
+jch,5 de 40
+grusi,2 de 40
+31-10-23
+eltri,20 de 40,7
+,5 de 30,16.5,mdo
+casa, 15 de 40
+alhe,70 de 30,6.3
+nun,10 de 40
+zac,30 de 40,6
+artu,6 de 20
+miga,21 de 30
+serr,4 de 30
+ate,10 de 40,6.8
+grusi,3 de 40,7
+cagu,16 de 30
+gum,35 de 40,6.8
+ralla,9 de 40
+raan,10 de 30,7
+hz,10de20
+kaflo,18 de 40
