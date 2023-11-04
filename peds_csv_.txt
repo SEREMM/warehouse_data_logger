@@ -51,3 +51,67 @@ ralla,9 de 40
 raan,10 de 30,7
 hz,10de20
 kaflo,18 de 40
+cholo,3 de 30,7.5
+rava,12 de 40
+1-11-23
+casa,10 de 40
+gum,35 de 40
+elme,14 de 40
+ramirez,4 de 40
+viczep,15 de 40
+sol,10 de 40
+miga,21 de 30
+rava,12 de 40
+jch,10 de 40
+mir,25 de 40
+asma,7 de 40
+roedce,15 de 40
+bomo,3 de 40
+2-11-23
+casa,15 de 40
+pil,4 de 40
+gum,30 de 40
+kaflo,40 de 40
+laz,16 de 40,,gde
+miga,24 de 30
+ser,13 de 40
+rava,14 de 40
+anra,7 de 40
+rc,5 de 30
+ate,5 de 40
+mirhe,2 de 40
+3-11-23
+hz,14 de 20
+frusa,30 de 40
+cagu,8 de 30
+zac,70 de 40
+miga,31 de 30
+kaflo,27 de 40
+raan,10 de 30
+rasa,40
+mir,28 de 40
+ralla,13 de 40
+sol,12 de 40
+dio,3 de 40
+ate,10 de 40
+rava,22 de 40
+grusi,2 de 40
+hil,6 de 40
+edg,3 de 40
+bla,2 de 40
+argu,3 de 40
+ramjch,5 de 30
+alekar,5 de 40
+hilo,3 de 40
+4-11-23
+eltri,20 de 40
+,5 de 30,,mdo
+frufime,30 de 35
+aliser,42 de 30
+gum,35 de 40
+cagu,12 de 30
+bochi, 20 de 30
+miga,23 de 30,6.2
+rasa,40
+anra,3 de 40
+bacasur,10 de 30,,mdo
