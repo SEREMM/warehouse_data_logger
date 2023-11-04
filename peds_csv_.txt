@@ -115,3 +115,6 @@ miga,23 de 30,6.2
 rasa,40
 anra,3 de 40
 bacasur,10 de 30,,mdo
+paul villegas,36 de 40
+jch,10 de 40
+
