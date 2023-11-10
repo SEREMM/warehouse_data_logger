@@ -117,4 +117,105 @@ anra,3 de 40
 bacasur,10 de 30,,mdo
 paul villegas,36 de 40
 jch,10 de 40
+5-11-23
+casa,10 de 40
+gum,35 de 40
+zac,70 de 40
+rava,22 de 40
+ralla,12 de 40
+miga,14 de 30
+grusi,4 de 40
+jch,10 de 40
+asma,7 de 40
+,15,,mdo
+raan,5 de 30
+anra,7 de 40
+6-11-23
+mihe,4 de 40
+casa,15 de 40
+laz,10 de 40,,gde
+bochi,18 de 30
+kaflo,45 de 40,6.5
+sol,12 de 40
+dio,3 de 40
+miga,17 de 30
+rasa,40
+hz,8 de 20
+rava,20 de 40
+rc,2 de 30
+jch,10 de 40
+mir,28 de 40
+jorge gomez ortiz,80 de 30,7.8,cajas
+7-11-23
+eltri,30 de 40
+kaflo,25 de 40
+hz,6 de 20
+nunez,10 de 40
+frusa,15 de 40
+gum,35 de 40
+miga,22 de 30
+ate,10 de 40
+grusi,4 de 40
+raan,12 de 30
+ralla,12 de 40,6.7
+cagu,16 de 30
+rava,14 de 40,6.5
+jch,10 de 40
+ramjch,2 de 30
+8-11-23
+casa,15 de 40
+gum,35 de 40
+bochi,20 de 30
+sol,15 de 40
+miga,22 de 30
+vize,15 de 40
+alhe,50 de 30
+jch,10 de 40
+mir,23 de 40
+asma,7 de 40
+,15,,mdo
+bomo,2 de 40
+more,8 de 40
+alonso,8 de 30
+,2 de 30,,mdo
+9-11-23
+jealbe,80 de 30
+,5 de 30,,mdo
+pil,8 de 40
+chavez,20 de 40
+aliser,42 de 35
+frusa,15 de 40
+miga,23 de 30
+gerardo,25 de 40
+gum,35 de 40
+kaflo,30 de 40
+ate,7 de 40
+ser,10 de 40
+rc,5 de 30
+raan,6 de 30
+grusi,2 de 40
+rava,16 de 40
+jch,5 de 40
+10-11-23
+casa,25 de 40,6.5
+nunez,12 de 40,6.8
+bochi,20 de 30
+miga,31 de 30,6.2
+sol,15 de 40,7
+dio,3 de 40,7
+cagu,12 de 30
+ate,7 de 40,7
+raan,10 de 30
+rasa,40
+mir,31 de 40
+ralla,15 de 40
+rava,22 de 40
+jch,10 de 40
+argu,3 de 40
+edgar,2 de 40
+,40,,gde
+blanca,2 de 40
+zepeda,15 de 40
+neva,25 de 40,5.8
+miro,6 de 30,7.5
 
