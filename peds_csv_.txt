@@ -218,4 +218,245 @@ blanca,2 de 40
 zepeda,15 de 40
 neva,25 de 40,5.8
 miro,6 de 30,7.5
-
+11-11-23
+cagu,15 de 30
+gum,35 de 40
+eltri,10 de 40
+,5 de 30,,mdo
+miga,24 de 30
+rasa,40
+jch,10 de 40
+racojch,3 de 40
+guayabitos,5 de 40
+12-11-23
+alhe,80 de 30
+dacha,25 de 40
+gum,35 de 40
+casa,15 de 40
+bochi,18 de 30
+vize,15 de 40
+miga,14 de 30
+ralla,10 de 40
+rava,18 de 40
+jch,10 de 40
+asma,7 de 40
+,15,,mdo
+ate,5 de 40
+raan,10 de 30
+anra,8 de 40
+grusi,4 de 40
+13-11-23
+casa,10 de 40
+mirhe,4 de 40
+,40,,mdo
+kaflo,30 de 40
+sol,10 de 40
+dio,3 de 40
+,40,,mdo
+miga,13 de 30
+rasa,40
+rava,17 de 40,6.5
+rc,90,7.5
+jch,8 de 40,6.2
+mir,30 de 40
+laz,10 de 40
+ser,8 de 40
+bla,2 de 40
+14-11-23
+aliser,30 de 30,6.8
+frufime,42 de 35,6.8
+neva,40 de 40,5.8
+casa,15 de 40
+hz,12 de 20
+dacha,20 de 40
+gum,35 de 40,6.8
+argu,3 de 40
+miga,18 de 30
+eltri,20 de 40
+rava,10 de 40,6.5
+grusi,3 de 40,7
+ralla,10 de 40
+jch,8 de 40,6.2
+ate,7 de 40,7
+cagu,16 de 30
+racojch,2 de 30,6.2
+raan,10 de 30,7
+edgar,4 de 45
+bacasur,185,17,mdo
+miro,4 de 30
+15-11-23
+alhe,70 de 30
+casa,15 de 40
+gum,35 de 40
+sol,10 de 40
+,40,,mdo
+miga,22 de 30
+asma,7 de 40
+,20,,mdo
+vize,15 de 40
+rava,12 de 40
+jch,8 de 40
+mir,27 de 40
+bomo,3 de 40
+grusi,2 de 40
+16-11-23
+cha,20 de 40
+alhe,70 de 30
+frusa,15 de 40
+malata,15 de 40
+laz,16 de 40,,gde
+ceme,8 de 40
+ate,7 de 40
+raan,7 de 40
+rc,5 de 30
+kaflo,30 de 40
+gum,35 de 40
+miga,21 de 30
+jch,6 de 40
+grusi,5 de 40
+luto,18 de 40
+,40,,mdo
+ser,11 de 40
+baldo,12 de 40
+rodrigo,5 de 40
+17-11-23
+hz,14 de 20
+elme,12 de 40
+cagu,8 de 30
+casa,25 de 40
+rios,10 de 30
+raan,10 de 40
+ralla,15 de 40
+miga,30 de 30
+ate,7 de 40
+luto,33 de 40
+,40,,mdo
+sol,12 de 40
+dio,3 de 40
+mir,31 de 40
+kaflo,5 de 40
+edg,4 de 40
+blan,2 de 40
+rasa,40
+argu,3 de 40
+rava,22 de 40
+miro,4 de 30
+18-11-23
+ali,42 de 30,6.8
+alhe,80 de 30
+cagu,16 de 30
+papa,20 de 40
+zac,70 de 40,6
+eltri,30 de 40
+,5 de 30,,mdo
+,40,,sin costo
+gum,35 de 40,6.80
+miga,24 de 30
+rasa,40
+jch,10 de 40
+bacasur,10 de 18,17,mdo
+19-11-23
+frusa,15 de 40
+gum,35 de 40
+zac,40 de 40
+dacha,20 de 40
+asma,7 de 40
+,10,,mdo
+rava,22 de 30
+ralla,10 de 40
+miga,14 de 30
+jch,10 de 40
+raan,10 de 30
+ate,5 de 40
+anra,7 de 40
+rasa,40
+20-11-23
+casa,15 de 40
+miga,16 de 30
+kaflo,30 de 40
+grusi,4 de 40
+mihe,5 de 40
+sol,12 de 40
+dio,3 de 40
+rava,16 de 40,6.5
+rc,90
+jch,6 de 40
+mir,30 de 40
+hz,8 de 20
+carlos,4 de 40
+diego,3 de 40
+hilario,40
+21-11-23
+cagu,18de30
+dron,24de40
+nun,10de40
+casa,15de40
+cha,20de40
+argu,3de40
+hz,10de20,6.5
+miga,20de30,6
+gum,35de40,6.8
+kaflo,15de40,6.3
+rava,12de40
+grusi,5de40,7
+ralla,13de40,6.7
+ate,10de40,7
+raan,10de30
+jch,10de40
+rajch,5de30
+miro,5de30
+bacasur,10de20,14,mdo
+22-11-23
+eltri,10de40
+,5de30,,mdo
+frusa,15de40
+gum,35de40
+alhe,60de30
+sol,12de40
+rasa,40
+vize,17de40
+roedce,20de40,9.8,limpio
+asma,7de40
+,15,,mdo
+mir,27de40
+jch,10de40
+rava,15de40
+23-11-23
+pil,11de40
+gum,30de40
+casa,15de40
+cha,15de40
+kaflo,30de40
+miga,27de30
+anra,10de40
+grusi,80
+rc,150
+ate,7de40
+rasa,40
+rodfa,7de40
+rava,22de40
+eldo,60de40
+mirhe,80
+pavi,38de40
+jch,10de40
+24-11-23
+nun,12de40,6.5
+elme,10de40
+cagu,14de30
+hz,16de20
+frusa,30de40
+raan,12de30
+argu,4de40
+sol,12de40
+dio,3de40
+,40,,mdo
+ralla,15de40
+,40,,mdo
+miga,29de30
+ate,7de40
+mir,33de40
+rava,25de40
+miro,6de30,7
+grusi,80
+jch,10de40
+25-11-23
