@@ -16,3 +16,21 @@
 7,1,cam,purepero,hellos
 8,sigue el mismo
 9,1,cam,purepero,hellos
+10,cam,purepero,hellos
+11,sigue el mismo
+12,cam,purepero,hellos
+13,sigue el mismo
+14,cam,san gregorio,ing jesus morales
+15,cam,purepero,hellos
+16,cam,purepero,boton,cusunducuaro
+17,cam,purepero,boton,cusunducuaro
+18,mismo
+19,cam,purep,boton,cusun
+20,cam,purep,hellos,suegros boton
+21,mismo
+22,.5cam,purep,hellos,suegro boton
+22,.5cam,purep,hellos,porton
+23,cam,purep,saul,lasfresas
+24,cam,purep,hellos,porton
+26,mismo
+27,cam,purep,hellos,cusun
